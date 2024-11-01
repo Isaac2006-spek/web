@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-5">Black_hole.jpg</imaxe>
+              <texto posx="3" posy="44" ancho="582" largo="235"><![CDATA[
+<p align="left">
+<font color="#FFFFFF" face="Arial" size="20"><b>¿Qué son los agujeros Negros?</b><br>
+Un agujero negro es un objeto astronómico con una fuerza gravitatoria tan fuerte que nada, ni siquiera la luz, puede escapar de él. La "superficie" de un agujero negro, denominada horizonte de sucesos, define el límite donde la velocidad requerida para evadirlo excede la velocidad de la luz, que es el límite de velocidad en el cosmos. La materia y la radiación son atrapadas y no pueden salir.<br>
+<br>
+<b>¿Cuántos agujeros negros hay en la Vía Láctea?</b><br>
+De acuerdo con el sitio especializado, Space.com, los astrónomos calculan que en la gaxia de la Tierra, la Vía Láctea, hay entre 10 millones y mil millones de agujeros negros con masas, aproximadamente, tres veces superiores a la del Sol.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="agujero">agujero</sopa>
+              <sopa enun="gravedad">gravedad</sopa>
+              <sopa enun="luz">luz</sopa>
+              <sopa enun="astrómico">astronomico</sopa>
+              <sopa enun="galaxia">galaxia</sopa>
+              <sopa enun="sol">sol</sopa>
+              <sopa enun="estrellas">estrellas</sopa>
+              <sopa enun="tierra">tierra</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="3" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>Agujeros_negros.jpg</completa>
+              <completa>Tierra.jpg</completa>
+              <completa>Luz.jpeg</completa>
+              <completa>Sol.jpeg</completa>
+        </paxina>
+    </libro>
+</lim>
